@@ -17,4 +17,4 @@ If you encounter issues running *autopsf_batch.tcl* within the Jupyter notebook,
 
 Please keep in mind that this is a developing pipeline, and we are actively fixing bugs on a daily basis.
 
-The codes are developed by ([Tandac Furkan Guclu](https://github.com/tfguclu))
+The codes are developed by [Tandac Furkan Guclu](https://github.com/tfguclu)
