@@ -9,7 +9,7 @@
 
 **Note:** Ensure that all software is properly configured and added as path variables.
 
-The MuMi scheme takes a PDB file and mutates all possible single mutations using NAMD2 and VMD. Mutant PDB files are first generated with ProDy, and minimizations are carried out using NAMD2 and VMD.
+The MuMi scheme takes a PDB file (here 1fcc.pdb as an example) and mutates all possible single mutations using NAMD2 and VMD. Mutant PDB files are first generated with ProDy, and minimizations are carried out using NAMD2 and VMD.
 
 In the *MuMi_scheme.ipynb* Jupyter notebook, you can find detailed explanations for the code. This notebook also relies on *autopsf_batch.tcl* and *rtf* files.
 
